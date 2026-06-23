@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I am a passionate Full-Stack Developer based in cape verde, western coast of Africa. I love building applications that solve real-world problems and exploring new technologies.
 
-- 🔭 I’m currently working on my own company, projects and public sector
+- 🔭 I’m currently working on my own tech company, projects and public sector
 - 🌱 I’m currently learning about new software develoment stack based in AI
 - 💬 Ask me about new projects ideas and business
 - 📫 How to reach me: ailsonesi96@gmail.com or info@algorstack.com
