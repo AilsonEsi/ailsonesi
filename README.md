@@ -22,5 +22,5 @@ I am a passionate Full-Stack Developer based in cape verde, western coast of Afr
 ---
 
 ### 🔗 Connect with Me
-[<img src="https://shields.io" />]([https://linkedin.com](https://www.linkedin.com/in/ailson-moreira-340b40161/))
-[<img src="https://shields.io" />](https://algorstack.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/ailson-moreira-340b40161/)
+[![Website](https://shields.io)](https://algorstack.com)
